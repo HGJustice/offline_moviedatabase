@@ -1,0 +1,3 @@
+/Users/szymonlyzwinski/CLionProjects/programmingCoursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/szymonlyzwinski/CLionProjects/programmingCoursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/szymonlyzwinski/CLionProjects/programmingCoursework/cmake-build-debug/CMakeFiles/programmingCoursework.dir
